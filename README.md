@@ -1,2 +1,2 @@
-# More Detailed Results for Prioritization of Abstract Test Cases by Weighting Covered Value Combinations
-Our paper, titled "Prioritization of Abstract Test Cases by Weighting Covered Value Combinations," has been submitted to the Science China Information Sciences journal. However, the advanced version of the manuscript cannot provide sufficient details due to page limitations. To address this issue, we have included more detailed results in these files, including more comprehensive APCC and APDF results.
+# More Detailed Results for WICBP
+Our paper, titled "Prioritization of Abstract Test Cases by Weighting Covered Value Combinations," has been submitted to Science China Information Sciences. However, the advanced version of the manuscript cannot provide sufficient details due to page limitations. To address this issue, we have included more detailed results in these files, including more comprehensive APCC and APDF results.
